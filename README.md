@@ -1,4 +1,4 @@
-[![GitHub followers](https://img.shields.io/twitter/follow/NetSecWiki?color=%23&label=TWITTER%20-%20%40NETSECWIKI&style=for-the-badge)](https://github.com/netsec-wiki/) 
+[![GitHub followers](https://img.shields.io/twitter/follow/NetSecWiki?color=%23&label=TWITTER%20-%20%40NETSECWIKI&style=for-the-badge)](https://twitter.com/NetSecWiki) 
 # NetSec Wiki
 
 Welcome to the NetSec Wiki repository! This is where we manage contributions, issues, and other project-related tasks for [NetSec Wiki](https://netsec.wiki/), a website dedicated to providing comprehensive information on network security, with a focus on red teaming.
